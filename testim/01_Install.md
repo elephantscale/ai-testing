@@ -16,3 +16,7 @@ and joining your team.
 ![](../images/02.png)
 
 ### Step 2
+
+* Log in with the credentials assigned to you by the instructor.
+  * Verify that you see the common projects, the team, etc.
+
