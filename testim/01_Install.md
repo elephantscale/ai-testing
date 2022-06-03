@@ -1,6 +1,9 @@
 # Install
 
 * [Testim site](https://www.testim.io/)
+* [Testim education](https://www.testim.io/education/)
+* [Testim documentation](https://help.testim.io/docs)
+* [Testim about](https://www.testim.io/about/)
 
 ### Step 1 Join the team
 
@@ -19,4 +22,14 @@ and joining your team.
 
 * Log in with the credentials assigned to you by the instructor.
   * Verify that you see the common projects, the team, etc.
+
+### Step 3 - Overview of training
+
+* [About testim training](https://www.testim.io/courses/testim-ai-certification-course/)
+
+### Learn about using Testim
+
+* [Introduction to Testim](https://www.testim.io/lessons/section-1-intro-to-testim/)
+
+### Step 4 - Students create their own tests
 
