@@ -1,4 +1,4 @@
-# Install
+# Learn to use Testim
 
 * [Testim site](https://www.testim.io/)
 * [Testim education](https://www.testim.io/education/)
