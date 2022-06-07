@@ -4,6 +4,7 @@
 * [Testim education](https://www.testim.io/education/)
 * [Testim documentation](https://help.testim.io/docs)
 * [Testim about](https://www.testim.io/about/)
+* => [Demo site for tests](https://demo.testim.io/)
 
 ### Step 1 Join the team
 
