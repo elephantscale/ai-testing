@@ -1,6 +1,6 @@
 ## Accounts for students in Testim
 
-* 32 accounts total, as follows:
+* 10 accounts total, as follows:
 * Student 1
     * URL:
     * Username: student1@elephantscale.com
